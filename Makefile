@@ -1,7 +1,7 @@
 CXX = g++
 CXXFLAGS = -std=c++11 -Wall -O2
 TARGET = your_compiler
-SRC = lexer.cpp
+SRC = toyc.cpp
 
 all: $(TARGET)
 
